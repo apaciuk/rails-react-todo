@@ -9,6 +9,7 @@ processes = []
   [build.args]
     BUNDLER_VERSION = "2.3.3"
     NODE_VERSION = "16.17.0"
+    ENV NODE_OPTIONS = "openssl-legacy-provider"
     BUILD_COMMAND = "bin/rails fly:build"
     SERVER_COMMAND = "bin/rails fly:server"
     RUBY_VERSION = "3.1.2"

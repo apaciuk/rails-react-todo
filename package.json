@@ -1,7 +1,7 @@
 {
-  "name": "rails-todo-playground",
+  "name": "rails-react-todo",
   "version": "1.0.0",
-  "description": "My little rails playground",
+  "description": "rails-react-todo",
   "main": "index.js",
   "repository": "git@github.com:hackercowboy/rails-todo-playground.git",
   "author": "david@uebelacker.ch",
